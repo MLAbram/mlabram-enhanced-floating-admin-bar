@@ -17,9 +17,18 @@ A lightweight WordPress plugin designed to streamline the administrative workflo
 
 ## Installation
 
-1. Upload the `mlabram-enhanced-floating-admin-bar` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. (Optional) For Multisite, you can Network Activate the plugin to enable it for all sites.
+To install this plugin via the WordPress Admin Dashboard:
+
+1. **Prepare the File:** * Ensure the `mlabram-enhanced-floating-admin-bar.php` file is inside a folder named `mlabram-enhanced-floating-admin-bar`.
+   * Compress (Zip) that folder so you have a file named `mlabram-enhanced-floating-admin-bar.zip`.
+2. **Upload to WordPress:**
+   * Go to **Plugins > Add New Plugin** in your WordPress dashboard.
+   * Click the **Upload Plugin** button at the top.
+   * Select your `.zip` file and click **Install Now**.
+3. **Activate:**
+   * Once the installation is complete, click **Activate Plugin**.
+
+> **Note:** If you are using a Mac, ensure you zip the *folder* itself, not just the PHP file, to maintain the correct directory structure.
 
 ## Usage
 
